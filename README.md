@@ -1,4 +1,4 @@
-# 👋 Hi, I'm José Mª Villalba Alarcón
+# 👋 Hi, I'm Jose Villalba Alarcón
 
 🎓 **ML/AI Engineer · MLOps · Data Scientist**  
 🚀 I build real-world, production-ready AI systems — from data pipelines to LLM-based applications.
