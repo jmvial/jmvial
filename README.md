@@ -41,5 +41,5 @@ Google Cloud Platform (GCP) · Amazon Web Services (AWS) · runpod · DigitalOce
 
 ## 🔗 Let's connect
 
-- 📄 [LinkedIn](https://www.linkedin.com/in/jose-m%C2%AA-villalba-alarc%C3%B3n-a50398204/)
+- 📄 [LinkedIn](https://www.linkedin.com/in/jose-villalba-alarc%C3%B3n-a50398204/)
 - 📬 Open to collaborations, contributions, and ML side projects
